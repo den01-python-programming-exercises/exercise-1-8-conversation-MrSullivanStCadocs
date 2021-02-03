@@ -2,7 +2,7 @@ def main():
     #write your code below this line
     first = input ("Hi there how are you today? ")
     second = input ("That is great news is there anything else?  ")
-    print ("Thanks for talking to me!")
+    third = input ("Thanks for talking to me!")
 
 
 
