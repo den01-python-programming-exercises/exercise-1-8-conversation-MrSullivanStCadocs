@@ -1,8 +1,8 @@
 def main():
     #write your code below this line
-    first = input ("Greetings! How are you doing? ")
-    second = input ("Oh, how interesting. Tell me more! ")
-    print ("Thanks for sharing!")
+    first = input ("Hi there how are you today? ")
+    second = input ("That is great news is there anything else?  ")
+    print ("Thanks for talking to me!")
 
 
 
